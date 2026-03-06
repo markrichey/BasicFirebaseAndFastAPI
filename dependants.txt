@@ -1,0 +1,5 @@
+pip install fastapi uvicorn firebase-admin python-multipart
+
+
+to run
+uvicorn main:app --reload
